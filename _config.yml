@@ -6,10 +6,10 @@
 name: 개발자의 꿈
 
 # Short bio or description (displayed in the header)
-description: 개발자로서 꿈과 사명을 찾아가는 발자국을 남기다
+description: 개발자의 꿈을 빚어가는 손자국
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/mission-on/mission-on.github.io/master/images/dream-on-logo.png
+avatar: https://raw.githubusercontent.com/mission-on.github.io/main/images/dream-on-logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: mission-on/mission-on.github.io
+  github: mission-on.github.io/dream
   instagram:
   linkedin:
   pinterest:
